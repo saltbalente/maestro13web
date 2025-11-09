@@ -1,0 +1,7 @@
+/* Typography overrides to avoid remote webfonts */
+.elementor-kit-7{
+  --e-global-typography-primary-font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  --e-global-typography-secondary-font-family: Georgia, "Times New Roman", Times, serif;
+  --e-global-typography-text-font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  --e-global-typography-accent-font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
